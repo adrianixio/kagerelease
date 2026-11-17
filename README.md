@@ -248,8 +248,3 @@ KageGeki compare anche tra le app della TV (tasto **Home**, in fondo all'elenco)
 - **Il pulsante «Riproduci» non c'è:** si mostra solo nelle app e solo se l'account ha almeno un canale: aggiungine uno nelle impostazioni dell'account.
 - **«Non trovato» o «I canali non rispondono»:** controlla che l'indirizzo del canale sia ancora quello giusto (i siti cambiano dominio).
 - **Windows non riesce ad avviare il file:** clic destro sul file › Proprietà › spunta «Sblocca» in fondo, poi riprova.
-
-## Chi pubblica le release
-
-Le release si compilano e pubblicano dal PC di sviluppo (vedi il README, sezione «Compilare le versioni da installare»). Ogni release è
-una voce della pagina Releases, con i file (installer Windows, APK e, quando è stato compilato, il pacchetto per TV LG) e le novità della versione.
